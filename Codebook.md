@@ -14,7 +14,7 @@ A data frame with 180 observations on the following 68 variables.
 
 ### Columns
 
-* **Subject** - a numeric vector
+* **Subject** - a numeric vector; Each number corresponds to a person taking part in the experiment.
 
 * **Activity** - a factor with levels denoting the activities taken** - LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
 
